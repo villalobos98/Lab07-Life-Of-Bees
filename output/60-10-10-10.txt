@@ -1,0 +1,1228 @@
+/Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -classpath /Users/sps/Documents/CS2/20175/Labs/BeeHive/out/production/BeeHive BeeMain 60 10 10 10
+Simulation time: 60 seconds
+Starting drones: 10
+Starting nectar workers: 10
+Starting pollen workers: 10
+*BH* QUEEN #1 is born!
+*BH* DRONE #2 is born!
+*BH* DRONE #3 is born!
+*BH* DRONE #4 is born!
+*BH* DRONE #5 is born!
+*BH* DRONE #6 is born!
+*BH* DRONE #7 is born!
+*BH* DRONE #8 is born!
+*BH* DRONE #9 is born!
+*BH* DRONE #10 is born!
+*BH* DRONE #11 is born!
+*BH* NECTAR WORKER #12 is born!
+*BH* NECTAR WORKER #13 is born!
+*BH* NECTAR WORKER #14 is born!
+*BH* NECTAR WORKER #15 is born!
+*BH* NECTAR WORKER #16 is born!
+*BH* NECTAR WORKER #17 is born!
+*BH* NECTAR WORKER #18 is born!
+*BH* NECTAR WORKER #19 is born!
+*BH* NECTAR WORKER #20 is born!
+*BH* NECTAR WORKER #21 is born!
+*BH* POLLEN WORKER #22 is born!
+*BH* POLLEN WORKER #23 is born!
+*BH* POLLEN WORKER #24 is born!
+*BH* POLLEN WORKER #25 is born!
+*BH* POLLEN WORKER #26 is born!
+*BH* POLLEN WORKER #27 is born!
+*BH* POLLEN WORKER #28 is born!
+*BH* POLLEN WORKER #29 is born!
+*BH* POLLEN WORKER #30 is born!
+*BH* POLLEN WORKER #31 is born!
+*BH* Bee hive begins buzzing!
+*QC* DRONE #2 enters chamber
+*QC* DRONE #3 enters chamber
+*QC* DRONE #4 enters chamber
+*QC* DRONE #5 enters chamber
+*QC* DRONE #6 enters chamber
+*QC* DRONE #7 enters chamber
+*QC* DRONE #8 enters chamber
+*QC* DRONE #9 enters chamber
+*QC* DRONE #10 enters chamber
+*QC* DRONE #11 enters chamber
+*FF* NECTAR WORKER #12 enters field
+*FF* NECTAR WORKER #13 enters field
+*FF* NECTAR WORKER #14 enters field
+*FF* NECTAR WORKER #15 enters field
+*FF* NECTAR WORKER #16 enters field
+*FF* NECTAR WORKER #17 enters field
+*FF* NECTAR WORKER #18 enters field
+*FF* NECTAR WORKER #19 enters field
+*FF* NECTAR WORKER #20 enters field
+*FF* NECTAR WORKER #21 enters field
+*FF* POLLEN WORKER #22 enters field
+*FF* POLLEN WORKER #23 enters field
+*FF* POLLEN WORKER #24 enters field
+*FF* POLLEN WORKER #25 enters field
+*FF* POLLEN WORKER #26 enters field
+*FF* POLLEN WORKER #27 enters field
+*FF* POLLEN WORKER #28 enters field
+*FF* POLLEN WORKER #29 enters field
+*FF* POLLEN WORKER #30 enters field
+*FF* POLLEN WORKER #31 enters field
+*FF* NECTAR WORKER #14 leaves field
+*FF* NECTAR WORKER #19 leaves field
+*FF* NECTAR WORKER #20 leaves field
+*FF* NECTAR WORKER #21 leaves field
+*FF* NECTAR WORKER #17 leaves field
+*FF* NECTAR WORKER #18 leaves field
+*FF* NECTAR WORKER #16 leaves field
+*BH* NECTAR WORKER #14 deposits
+*FF* NECTAR WORKER #12 leaves field
+*BH* NECTAR WORKER #16 deposits
+*FF* NECTAR WORKER #15 leaves field
+*BH* NECTAR WORKER #19 deposits
+*FF* NECTAR WORKER #13 leaves field
+*BH* NECTAR WORKER #18 deposits
+*FF* NECTAR WORKER #19 enters field
+*BH* NECTAR WORKER #17 deposits
+*FF* NECTAR WORKER #16 enters field
+*BH* NECTAR WORKER #21 deposits
+*FF* NECTAR WORKER #14 enters field
+*BH* NECTAR WORKER #20 deposits
+*BH* NECTAR WORKER #13 deposits
+*FF* NECTAR WORKER #20 enters field
+*BH* NECTAR WORKER #15 deposits
+*FF* NECTAR WORKER #21 enters field
+*BH* NECTAR WORKER #12 deposits
+*FF* NECTAR WORKER #17 enters field
+*FF* NECTAR WORKER #18 enters field
+*FF* NECTAR WORKER #12 enters field
+*FF* NECTAR WORKER #15 enters field
+*FF* NECTAR WORKER #13 enters field
+*FF* POLLEN WORKER #22 leaves field
+*BH* POLLEN WORKER #22 deposits
+*FF* POLLEN WORKER #31 leaves field
+*BH* POLLEN WORKER #31 deposits
+*FF* POLLEN WORKER #30 leaves field
+*FF* POLLEN WORKER #22 enters field
+*BH* POLLEN WORKER #30 deposits
+*FF* NECTAR WORKER #19 leaves field
+*BH* NECTAR WORKER #19 deposits
+*FF* POLLEN WORKER #30 enters field
+*FF* POLLEN WORKER #31 enters field
+*FF* NECTAR WORKER #16 leaves field
+*BH* NECTAR WORKER #16 deposits
+*FF* NECTAR WORKER #14 leaves field
+*BH* NECTAR WORKER #14 deposits
+*FF* POLLEN WORKER #28 leaves field
+*BH* POLLEN WORKER #28 deposits
+*FF* NECTAR WORKER #19 enters field
+*FF* POLLEN WORKER #28 enters field
+*FF* NECTAR WORKER #14 enters field
+*FF* POLLEN WORKER #26 leaves field
+*BH* POLLEN WORKER #26 deposits
+*FF* POLLEN WORKER #27 leaves field
+*BH* POLLEN WORKER #27 deposits
+*FF* POLLEN WORKER #29 leaves field
+*BH* POLLEN WORKER #29 deposits
+*FF* NECTAR WORKER #16 enters field
+*FF* POLLEN WORKER #29 enters field
+*FF* POLLEN WORKER #27 enters field
+*FF* POLLEN WORKER #26 enters field
+*QC* Queen mates with DRONE #2
+*QC* DRONE #2 leaves chamber
+*D* DRONE #2 has perished!
+*FF* POLLEN WORKER #25 leaves field
+*BH* POLLEN WORKER #25 deposits
+*FF* POLLEN WORKER #24 leaves field
+*BH* POLLEN WORKER #24 deposits
+*FF* NECTAR WORKER #20 leaves field
+*BH* NECTAR WORKER #20 deposits
+*FF* POLLEN WORKER #25 enters field
+*FF* POLLEN WORKER #22 leaves field
+*BH* POLLEN WORKER #22 deposits
+*FF* NECTAR WORKER #20 enters field
+*FF* POLLEN WORKER #24 enters field
+*FF* POLLEN WORKER #23 leaves field
+*BH* POLLEN WORKER #23 deposits
+*FF* NECTAR WORKER #19 leaves field
+*BH* NECTAR WORKER #19 deposits
+*FF* POLLEN WORKER #22 enters field
+*FF* NECTAR WORKER #19 enters field
+*BH* DRONE #32 is born!
+*FF* NECTAR WORKER #18 leaves field
+*FF* POLLEN WORKER #28 leaves field
+*BH* POLLEN WORKER #28 deposits
+*BH* POLLEN WORKER #33 is born!
+*FF* NECTAR WORKER #17 leaves field
+*QC* DRONE #32 enters chamber
+*BH* NECTAR WORKER #18 deposits
+*FF* POLLEN WORKER #23 enters field
+*BH* NECTAR WORKER #17 deposits
+*FF* NECTAR WORKER #18 enters field
+*FF* POLLEN WORKER #28 enters field
+*BH* DRONE #34 is born!
+*FF* NECTAR WORKER #16 leaves field
+*FF* POLLEN WORKER #33 enters field
+*BH* NECTAR WORKER #16 deposits
+*FF* NECTAR WORKER #17 enters field
+*FF* NECTAR WORKER #16 enters field
+*QC* DRONE #34 enters chamber
+*BH* POLLEN WORKER #35 is born!
+*FF* POLLEN WORKER #35 enters field
+*Q* Queen birthed 4 children
+*QC* Queen mates with DRONE #3
+*QC* DRONE #3 leaves chamber
+*FF* POLLEN WORKER #25 leaves field
+*BH* POLLEN WORKER #25 deposits
+*FF* POLLEN WORKER #22 leaves field
+*BH* POLLEN WORKER #22 deposits
+*FF* POLLEN WORKER #31 leaves field
+*BH* POLLEN WORKER #31 deposits
+*FF* NECTAR WORKER #21 leaves field
+*FF* NECTAR WORKER #18 leaves field
+*BH* NECTAR WORKER #21 deposits
+*FF* NECTAR WORKER #14 leaves field
+*BH* NECTAR WORKER #18 deposits
+*FF* POLLEN WORKER #30 leaves field
+*BH* NECTAR WORKER #14 deposits
+*FF* NECTAR WORKER #18 enters field
+*BH* POLLEN WORKER #30 deposits
+*FF* NECTAR WORKER #21 enters field
+*FF* POLLEN WORKER #23 leaves field
+*BH* POLLEN WORKER #23 deposits
+*FF* POLLEN WORKER #27 leaves field
+*BH* POLLEN WORKER #27 deposits
+*FF* POLLEN WORKER #31 enters field
+*FF* POLLEN WORKER #22 enters field
+*FF* POLLEN WORKER #25 enters field
+*FF* POLLEN WORKER #27 enters field
+*FF* POLLEN WORKER #23 enters field
+*FF* POLLEN WORKER #30 enters field
+*FF* POLLEN WORKER #26 leaves field
+*BH* POLLEN WORKER #26 deposits
+*FF* NECTAR WORKER #14 enters field
+*FF* POLLEN WORKER #26 enters field
+*D* DRONE #3 has perished!
+*BH* NECTAR WORKER #36 is born!
+*BH* POLLEN WORKER #37 is born!
+*FF* NECTAR WORKER #36 enters field
+*BH* POLLEN WORKER #38 is born!
+*FF* POLLEN WORKER #37 enters field
+*BH* POLLEN WORKER #39 is born!
+*FF* POLLEN WORKER #38 enters field
+*Q* Queen birthed 4 children
+*FF* POLLEN WORKER #39 enters field
+*QC* Queen mates with DRONE #4
+*QC* DRONE #4 leaves chamber
+*FF* NECTAR WORKER #20 leaves field
+*BH* NECTAR WORKER #20 deposits
+*FF* NECTAR WORKER #18 leaves field
+*FF* NECTAR WORKER #13 leaves field
+*BH* NECTAR WORKER #18 deposits
+*FF* NECTAR WORKER #20 enters field
+*BH* NECTAR WORKER #13 deposits
+*FF* NECTAR WORKER #15 leaves field
+*BH* NECTAR WORKER #15 deposits
+*FF* NECTAR WORKER #21 leaves field
+*BH* NECTAR WORKER #21 deposits
+*FF* POLLEN WORKER #22 leaves field
+*BH* POLLEN WORKER #22 deposits
+*FF* NECTAR WORKER #15 enters field
+*FF* NECTAR WORKER #13 enters field
+*FF* POLLEN WORKER #28 leaves field
+*BH* POLLEN WORKER #28 deposits
+*FF* POLLEN WORKER #31 leaves field
+*BH* POLLEN WORKER #31 deposits
+*FF* NECTAR WORKER #19 leaves field
+*BH* NECTAR WORKER #19 deposits
+*FF* NECTAR WORKER #18 enters field
+*FF* NECTAR WORKER #19 enters field
+*FF* POLLEN WORKER #31 enters field
+*FF* POLLEN WORKER #28 enters field
+*FF* POLLEN WORKER #22 enters field
+*FF* NECTAR WORKER #21 enters field
+*FF* NECTAR WORKER #14 leaves field
+*BH* NECTAR WORKER #14 deposits
+*FF* NECTAR WORKER #14 enters field
+*BH* DRONE #40 is born!
+*BH* DRONE #41 is born!
+*QC* DRONE #40 enters chamber
+*Q* Queen birthed 2 children
+*QC* DRONE #41 enters chamber
+*D* DRONE #4 has perished!
+*QC* Queen mates with DRONE #5
+*QC* DRONE #5 leaves chamber
+*FF* POLLEN WORKER #29 leaves field
+*FF* NECTAR WORKER #19 leaves field
+*BH* POLLEN WORKER #29 deposits
+*FF* NECTAR WORKER #18 leaves field
+*BH* NECTAR WORKER #19 deposits
+*FF* POLLEN WORKER #24 leaves field
+*BH* NECTAR WORKER #18 deposits
+*FF* POLLEN WORKER #25 leaves field
+*BH* POLLEN WORKER #24 deposits
+*FF* POLLEN WORKER #35 leaves field
+*BH* POLLEN WORKER #25 deposits
+*FF* NECTAR WORKER #16 leaves field
+*BH* POLLEN WORKER #35 deposits
+*FF* NECTAR WORKER #15 leaves field
+*BH* NECTAR WORKER #16 deposits
+*FF* NECTAR WORKER #20 leaves field
+*BH* NECTAR WORKER #15 deposits
+*FF* NECTAR WORKER #16 enters field
+*BH* NECTAR WORKER #20 deposits
+*FF* POLLEN WORKER #35 enters field
+*FF* POLLEN WORKER #25 enters field
+*FF* POLLEN WORKER #24 enters field
+*FF* NECTAR WORKER #18 enters field
+*FF* NECTAR WORKER #19 enters field
+*FF* POLLEN WORKER #29 enters field
+*FF* NECTAR WORKER #20 enters field
+*FF* NECTAR WORKER #15 enters field
+*FF* POLLEN WORKER #30 leaves field
+*BH* POLLEN WORKER #30 deposits
+*FF* POLLEN WORKER #30 enters field
+*BH* DRONE #42 is born!
+*BH* POLLEN WORKER #43 is born!
+*QC* DRONE #42 enters chamber
+*Q* Queen birthed 2 children
+*FF* POLLEN WORKER #43 enters field
+*D* DRONE #5 has perished!
+*QC* Queen mates with DRONE #6
+*QC* DRONE #6 leaves chamber
+*FF* POLLEN WORKER #26 leaves field
+*BH* POLLEN WORKER #26 deposits
+*FF* NECTAR WORKER #17 leaves field
+*BH* NECTAR WORKER #17 deposits
+*FF* POLLEN WORKER #26 enters field
+*FF* NECTAR WORKER #17 enters field
+*FF* POLLEN WORKER #33 leaves field
+*BH* POLLEN WORKER #33 deposits
+*FF* NECTAR WORKER #13 leaves field
+*BH* NECTAR WORKER #13 deposits
+*FF* NECTAR WORKER #13 enters field
+*FF* POLLEN WORKER #33 enters field
+*FF* POLLEN WORKER #24 leaves field
+*BH* POLLEN WORKER #24 deposits
+*FF* POLLEN WORKER #24 enters field
+*FF* POLLEN WORKER #25 leaves field
+*BH* POLLEN WORKER #25 deposits
+*FF* POLLEN WORKER #31 leaves field
+*BH* POLLEN WORKER #31 deposits
+*FF* POLLEN WORKER #35 leaves field
+*BH* POLLEN WORKER #35 deposits
+*FF* NECTAR WORKER #16 leaves field
+*BH* NECTAR WORKER #16 deposits
+*FF* POLLEN WORKER #35 enters field
+*FF* POLLEN WORKER #31 enters field
+*FF* POLLEN WORKER #25 enters field
+*FF* NECTAR WORKER #16 enters field
+*FF* POLLEN WORKER #28 leaves field
+*BH* POLLEN WORKER #28 deposits
+*FF* POLLEN WORKER #28 enters field
+*D* DRONE #6 has perished!
+*BH* DRONE #44 is born!
+*BH* DRONE #45 is born!
+*QC* DRONE #44 enters chamber
+*QC* DRONE #45 enters chamber
+*BH* POLLEN WORKER #46 is born!
+*BH* DRONE #47 is born!
+*FF* POLLEN WORKER #46 enters field
+*Q* Queen birthed 4 children
+*QC* DRONE #47 enters chamber
+*QC* Queen mates with DRONE #7
+*QC* DRONE #7 leaves chamber
+*FF* NECTAR WORKER #12 leaves field
+*BH* NECTAR WORKER #12 deposits
+*FF* POLLEN WORKER #23 leaves field
+*BH* POLLEN WORKER #23 deposits
+*FF* NECTAR WORKER #13 leaves field
+*BH* NECTAR WORKER #13 deposits
+*FF* NECTAR WORKER #21 leaves field
+*BH* NECTAR WORKER #21 deposits
+*FF* NECTAR WORKER #12 enters field
+*FF* POLLEN WORKER #22 leaves field
+*BH* POLLEN WORKER #22 deposits
+*FF* POLLEN WORKER #38 leaves field
+*BH* POLLEN WORKER #38 deposits
+*FF* NECTAR WORKER #21 enters field
+*FF* POLLEN WORKER #35 leaves field
+*BH* POLLEN WORKER #35 deposits
+*FF* NECTAR WORKER #13 enters field
+*FF* POLLEN WORKER #23 enters field
+*FF* POLLEN WORKER #35 enters field
+*FF* NECTAR WORKER #18 leaves field
+*BH* NECTAR WORKER #18 deposits
+*FF* POLLEN WORKER #31 leaves field
+*BH* POLLEN WORKER #31 deposits
+*FF* POLLEN WORKER #31 enters field
+*FF* POLLEN WORKER #38 enters field
+*FF* POLLEN WORKER #22 enters field
+*FF* NECTAR WORKER #18 enters field
+*FF* NECTAR WORKER #19 leaves field
+*BH* NECTAR WORKER #19 deposits
+*FF* NECTAR WORKER #19 enters field
+*D* DRONE #7 has perished!
+*BH* NECTAR WORKER #48 is born!
+*BH* NECTAR WORKER #49 is born!
+*FF* NECTAR WORKER #48 enters field
+*Q* Queen birthed 2 children
+*FF* NECTAR WORKER #49 enters field
+*QC* Queen mates with DRONE #8
+*QC* DRONE #8 leaves chamber
+*FF* NECTAR WORKER #12 leaves field
+*BH* NECTAR WORKER #12 deposits
+*FF* NECTAR WORKER #13 leaves field
+*BH* NECTAR WORKER #13 deposits
+*FF* NECTAR WORKER #21 leaves field
+*BH* NECTAR WORKER #21 deposits
+*FF* NECTAR WORKER #20 leaves field
+*BH* NECTAR WORKER #20 deposits
+*FF* NECTAR WORKER #15 leaves field
+*BH* NECTAR WORKER #15 deposits
+*FF* POLLEN WORKER #37 leaves field
+*BH* POLLEN WORKER #37 deposits
+*FF* POLLEN WORKER #29 leaves field
+*BH* POLLEN WORKER #29 deposits
+*FF* POLLEN WORKER #37 enters field
+*FF* NECTAR WORKER #15 enters field
+*FF* NECTAR WORKER #20 enters field
+*FF* NECTAR WORKER #21 enters field
+*FF* NECTAR WORKER #13 enters field
+*FF* NECTAR WORKER #12 enters field
+*FF* POLLEN WORKER #31 leaves field
+*BH* POLLEN WORKER #31 deposits
+*FF* POLLEN WORKER #43 leaves field
+*BH* POLLEN WORKER #43 deposits
+*FF* POLLEN WORKER #31 enters field
+*FF* POLLEN WORKER #29 enters field
+*FF* POLLEN WORKER #43 enters field
+*FF* POLLEN WORKER #33 leaves field
+*BH* POLLEN WORKER #33 deposits
+*FF* POLLEN WORKER #33 enters field
+*D* DRONE #8 has perished!
+*BH* DRONE #50 is born!
+*BH* DRONE #51 is born!
+*QC* DRONE #50 enters chamber
+*BH* DRONE #52 is born!
+*QC* DRONE #51 enters chamber
+*Q* Queen birthed 3 children
+*QC* DRONE #52 enters chamber
+*QC* Queen mates with DRONE #9
+*QC* DRONE #9 leaves chamber
+*FF* POLLEN WORKER #24 leaves field
+*BH* POLLEN WORKER #24 deposits
+*FF* POLLEN WORKER #31 leaves field
+*BH* POLLEN WORKER #31 deposits
+*FF* POLLEN WORKER #31 enters field
+*FF* POLLEN WORKER #24 enters field
+*FF* POLLEN WORKER #25 leaves field
+*BH* POLLEN WORKER #25 deposits
+*FF* POLLEN WORKER #25 enters field
+*FF* NECTAR WORKER #20 leaves field
+*BH* NECTAR WORKER #20 deposits
+*FF* NECTAR WORKER #20 enters field
+*FF* POLLEN WORKER #27 leaves field
+*BH* POLLEN WORKER #27 deposits
+*FF* POLLEN WORKER #27 enters field
+*FF* NECTAR WORKER #15 leaves field
+*BH* NECTAR WORKER #15 deposits
+*FF* NECTAR WORKER #15 enters field
+*FF* NECTAR WORKER #16 leaves field
+*BH* NECTAR WORKER #16 deposits
+*FF* NECTAR WORKER #16 enters field
+*FF* POLLEN WORKER #37 leaves field
+*BH* POLLEN WORKER #37 deposits
+*FF* POLLEN WORKER #28 leaves field
+*BH* POLLEN WORKER #28 deposits
+*FF* POLLEN WORKER #28 enters field
+*FF* POLLEN WORKER #37 enters field
+*FF* NECTAR WORKER #36 leaves field
+*BH* NECTAR WORKER #36 deposits
+*FF* NECTAR WORKER #36 enters field
+*D* DRONE #9 has perished!
+*BH* DRONE #53 is born!
+*BH* DRONE #54 is born!
+*QC* DRONE #53 enters chamber
+*Q* Queen birthed 2 children
+*QC* DRONE #54 enters chamber
+*QC* Queen mates with DRONE #10
+*QC* DRONE #10 leaves chamber
+*FF* POLLEN WORKER #25 leaves field
+*BH* POLLEN WORKER #25 deposits
+*FF* NECTAR WORKER #16 leaves field
+*BH* NECTAR WORKER #16 deposits
+*FF* POLLEN WORKER #25 enters field
+*FF* POLLEN WORKER #28 leaves field
+*BH* POLLEN WORKER #28 deposits
+*FF* NECTAR WORKER #48 leaves field
+*BH* NECTAR WORKER #48 deposits
+*FF* NECTAR WORKER #15 leaves field
+*FF* POLLEN WORKER #27 leaves field
+*BH* NECTAR WORKER #15 deposits
+*FF* POLLEN WORKER #35 leaves field
+*BH* POLLEN WORKER #27 deposits
+*FF* NECTAR WORKER #20 leaves field
+*BH* POLLEN WORKER #35 deposits
+*FF* POLLEN WORKER #31 leaves field
+*BH* NECTAR WORKER #20 deposits
+*FF* POLLEN WORKER #35 enters field
+*BH* POLLEN WORKER #31 deposits
+*FF* POLLEN WORKER #27 enters field
+*FF* NECTAR WORKER #15 enters field
+*FF* NECTAR WORKER #48 enters field
+*FF* POLLEN WORKER #28 enters field
+*FF* NECTAR WORKER #16 enters field
+*FF* POLLEN WORKER #31 enters field
+*FF* NECTAR WORKER #20 enters field
+*FF* NECTAR WORKER #49 leaves field
+*BH* NECTAR WORKER #49 deposits
+*FF* NECTAR WORKER #49 enters field
+*BH* DRONE #55 is born!
+*D* DRONE #10 has perished!
+*Q* Queen birthed 1 children
+*QC* DRONE #55 enters chamber
+*QC* Queen mates with DRONE #11
+*QC* DRONE #11 leaves chamber
+*FF* NECTAR WORKER #21 leaves field
+*BH* NECTAR WORKER #21 deposits
+*FF* NECTAR WORKER #15 leaves field
+*BH* NECTAR WORKER #15 deposits
+*FF* NECTAR WORKER #15 enters field
+*FF* NECTAR WORKER #21 enters field
+*FF* POLLEN WORKER #46 leaves field
+*BH* POLLEN WORKER #46 deposits
+*FF* POLLEN WORKER #46 enters field
+*FF* POLLEN WORKER #25 leaves field
+*BH* POLLEN WORKER #25 deposits
+*FF* POLLEN WORKER #29 leaves field
+*BH* POLLEN WORKER #29 deposits
+*FF* NECTAR WORKER #14 leaves field
+*BH* NECTAR WORKER #14 deposits
+*FF* POLLEN WORKER #43 leaves field
+*BH* POLLEN WORKER #43 deposits
+*FF* POLLEN WORKER #27 leaves field
+*BH* POLLEN WORKER #27 deposits
+*FF* POLLEN WORKER #35 leaves field
+*BH* POLLEN WORKER #35 deposits
+*FF* POLLEN WORKER #35 enters field
+*FF* POLLEN WORKER #27 enters field
+*FF* POLLEN WORKER #43 enters field
+*FF* NECTAR WORKER #14 enters field
+*FF* POLLEN WORKER #29 enters field
+*FF* POLLEN WORKER #25 enters field
+*FF* POLLEN WORKER #33 leaves field
+*BH* POLLEN WORKER #33 deposits
+*FF* POLLEN WORKER #33 enters field
+*D* DRONE #11 has perished!
+*BH* DRONE #56 is born!
+*BH* POLLEN WORKER #57 is born!
+*QC* DRONE #56 enters chamber
+*Q* Queen birthed 2 children
+*FF* POLLEN WORKER #57 enters field
+*QC* Queen mates with DRONE #32
+*QC* DRONE #32 leaves chamber
+*FF* NECTAR WORKER #15 leaves field
+*BH* NECTAR WORKER #15 deposits
+*FF* POLLEN WORKER #35 leaves field
+*BH* POLLEN WORKER #35 deposits
+*FF* NECTAR WORKER #15 enters field
+*FF* POLLEN WORKER #30 leaves field
+*BH* POLLEN WORKER #30 deposits
+*FF* NECTAR WORKER #14 leaves field
+*BH* NECTAR WORKER #14 deposits
+*FF* POLLEN WORKER #43 leaves field
+*BH* POLLEN WORKER #43 deposits
+*FF* POLLEN WORKER #27 leaves field
+*BH* POLLEN WORKER #27 deposits
+*FF* POLLEN WORKER #46 leaves field
+*BH* POLLEN WORKER #46 deposits
+*FF* POLLEN WORKER #22 leaves field
+*BH* POLLEN WORKER #22 deposits
+*FF* POLLEN WORKER #24 leaves field
+*BH* POLLEN WORKER #24 deposits
+*FF* NECTAR WORKER #36 leaves field
+*BH* NECTAR WORKER #36 deposits
+*FF* POLLEN WORKER #22 enters field
+*FF* POLLEN WORKER #46 enters field
+*FF* POLLEN WORKER #27 enters field
+*FF* POLLEN WORKER #43 enters field
+*FF* NECTAR WORKER #14 enters field
+*FF* POLLEN WORKER #30 enters field
+*FF* POLLEN WORKER #35 enters field
+*FF* NECTAR WORKER #36 enters field
+*FF* POLLEN WORKER #24 enters field
+*D* DRONE #32 has perished!
+*BH* DRONE #58 is born!
+*Q* Queen birthed 1 children
+*QC* DRONE #58 enters chamber
+*QC* Queen mates with DRONE #34
+*QC* DRONE #34 leaves chamber
+*FF* NECTAR WORKER #15 leaves field
+*BH* NECTAR WORKER #15 deposits
+*FF* NECTAR WORKER #48 leaves field
+*BH* NECTAR WORKER #48 deposits
+*FF* POLLEN WORKER #23 leaves field
+*BH* POLLEN WORKER #23 deposits
+*FF* NECTAR WORKER #48 enters field
+*FF* NECTAR WORKER #15 enters field
+*FF* POLLEN WORKER #23 enters field
+*FF* POLLEN WORKER #22 leaves field
+*FF* POLLEN WORKER #27 leaves field
+*BH* POLLEN WORKER #22 deposits
+*FF* POLLEN WORKER #43 leaves field
+*BH* POLLEN WORKER #27 deposits
+*FF* NECTAR WORKER #16 leaves field
+*BH* POLLEN WORKER #43 deposits
+*FF* POLLEN WORKER #31 leaves field
+*BH* NECTAR WORKER #16 deposits
+*FF* NECTAR WORKER #20 leaves field
+*BH* POLLEN WORKER #31 deposits
+*BH* NECTAR WORKER #20 deposits
+*FF* POLLEN WORKER #46 leaves field
+*BH* POLLEN WORKER #46 deposits
+*FF* POLLEN WORKER #46 enters field
+*FF* NECTAR WORKER #20 enters field
+*FF* POLLEN WORKER #31 enters field
+*FF* NECTAR WORKER #16 enters field
+*FF* POLLEN WORKER #43 enters field
+*FF* POLLEN WORKER #27 enters field
+*FF* POLLEN WORKER #22 enters field
+*D* DRONE #34 has perished!
+*BH* NECTAR WORKER #59 is born!
+*Q* Queen birthed 1 children
+*FF* NECTAR WORKER #59 enters field
+*QC* Queen mates with DRONE #40
+*QC* DRONE #40 leaves chamber
+*FF* NECTAR WORKER #18 leaves field
+*BH* NECTAR WORKER #18 deposits
+*FF* POLLEN WORKER #29 leaves field
+*BH* POLLEN WORKER #29 deposits
+*FF* NECTAR WORKER #16 leaves field
+*BH* NECTAR WORKER #16 deposits
+*FF* POLLEN WORKER #31 leaves field
+*BH* POLLEN WORKER #31 deposits
+*FF* POLLEN WORKER #33 leaves field
+*BH* POLLEN WORKER #33 deposits
+*FF* NECTAR WORKER #20 leaves field
+*BH* NECTAR WORKER #20 deposits
+*FF* NECTAR WORKER #18 enters field
+*FF* POLLEN WORKER #46 leaves field
+*BH* POLLEN WORKER #46 deposits
+*FF* NECTAR WORKER #17 leaves field
+*BH* NECTAR WORKER #17 deposits
+*FF* NECTAR WORKER #48 leaves field
+*BH* NECTAR WORKER #48 deposits
+*FF* NECTAR WORKER #21 leaves field
+*BH* NECTAR WORKER #21 deposits
+*FF* NECTAR WORKER #48 enters field
+*FF* NECTAR WORKER #17 enters field
+*FF* POLLEN WORKER #46 enters field
+*FF* NECTAR WORKER #20 enters field
+*FF* POLLEN WORKER #33 enters field
+*FF* POLLEN WORKER #31 enters field
+*FF* NECTAR WORKER #16 enters field
+*FF* POLLEN WORKER #29 enters field
+*FF* NECTAR WORKER #21 enters field
+*D* DRONE #40 has perished!
+*BH* NECTAR WORKER #60 is born!
+*Q* Queen birthed 1 children
+*FF* NECTAR WORKER #60 enters field
+*QC* Queen mates with DRONE #41
+*QC* DRONE #41 leaves chamber
+*FF* POLLEN WORKER #57 leaves field
+*BH* POLLEN WORKER #57 deposits
+*FF* POLLEN WORKER #57 enters field
+*FF* NECTAR WORKER #13 leaves field
+*BH* NECTAR WORKER #13 deposits
+*FF* NECTAR WORKER #18 leaves field
+*BH* NECTAR WORKER #18 deposits
+*FF* NECTAR WORKER #13 enters field
+*FF* POLLEN WORKER #46 leaves field
+*BH* POLLEN WORKER #46 deposits
+*FF* NECTAR WORKER #36 leaves field
+*BH* NECTAR WORKER #36 deposits
+*FF* NECTAR WORKER #17 leaves field
+*BH* NECTAR WORKER #17 deposits
+*FF* POLLEN WORKER #24 leaves field
+*BH* POLLEN WORKER #24 deposits
+*FF* NECTAR WORKER #48 leaves field
+*BH* NECTAR WORKER #48 deposits
+*FF* NECTAR WORKER #48 enters field
+*FF* POLLEN WORKER #24 enters field
+*FF* NECTAR WORKER #17 enters field
+*FF* NECTAR WORKER #36 enters field
+*FF* NECTAR WORKER #12 leaves field
+*BH* NECTAR WORKER #12 deposits
+*FF* NECTAR WORKER #12 enters field
+*FF* POLLEN WORKER #35 leaves field
+*BH* POLLEN WORKER #35 deposits
+*FF* POLLEN WORKER #35 enters field
+*FF* POLLEN WORKER #46 enters field
+*FF* NECTAR WORKER #18 enters field
+*D* DRONE #41 has perished!
+*BH* DRONE #61 is born!
+*BH* DRONE #62 is born!
+*QC* DRONE #61 enters chamber
+*Q* Queen birthed 2 children
+*QC* DRONE #62 enters chamber
+*QC* Queen mates with DRONE #42
+*QC* DRONE #42 leaves chamber
+*FF* NECTAR WORKER #49 leaves field
+*BH* NECTAR WORKER #49 deposits
+*FF* NECTAR WORKER #49 enters field
+*FF* NECTAR WORKER #13 leaves field
+*BH* NECTAR WORKER #13 deposits
+*FF* POLLEN WORKER #27 leaves field
+*BH* POLLEN WORKER #27 deposits
+*FF* POLLEN WORKER #27 enters field
+*FF* POLLEN WORKER #35 leaves field
+*BH* POLLEN WORKER #35 deposits
+*FF* POLLEN WORKER #35 enters field
+*FF* NECTAR WORKER #13 enters field
+*FF* NECTAR WORKER #12 leaves field
+*BH* NECTAR WORKER #12 deposits
+*FF* NECTAR WORKER #12 enters field
+*FF* POLLEN WORKER #24 leaves field
+*BH* POLLEN WORKER #24 deposits
+*FF* NECTAR WORKER #17 leaves field
+*BH* NECTAR WORKER #17 deposits
+*FF* NECTAR WORKER #17 enters field
+*FF* NECTAR WORKER #48 leaves field
+*BH* NECTAR WORKER #48 deposits
+*FF* NECTAR WORKER #48 enters field
+*FF* NECTAR WORKER #15 leaves field
+*BH* NECTAR WORKER #15 deposits
+*FF* POLLEN WORKER #38 leaves field
+*BH* POLLEN WORKER #38 deposits
+*FF* POLLEN WORKER #38 enters field
+*FF* NECTAR WORKER #15 enters field
+*FF* POLLEN WORKER #24 enters field
+*D* DRONE #42 has perished!
+*BH* DRONE #63 is born!
+*Q* Queen birthed 1 children
+*QC* DRONE #63 enters chamber
+*QC* Queen mates with DRONE #44
+*QC* DRONE #44 leaves chamber
+*FF* POLLEN WORKER #25 leaves field
+*BH* POLLEN WORKER #25 deposits
+*FF* POLLEN WORKER #25 enters field
+*FF* NECTAR WORKER #17 leaves field
+*BH* NECTAR WORKER #17 deposits
+*FF* POLLEN WORKER #29 leaves field
+*BH* POLLEN WORKER #29 deposits
+*FF* POLLEN WORKER #29 enters field
+*FF* NECTAR WORKER #17 enters field
+*FF* POLLEN WORKER #38 leaves field
+*BH* POLLEN WORKER #38 deposits
+*FF* NECTAR WORKER #48 leaves field
+*BH* NECTAR WORKER #48 deposits
+*FF* NECTAR WORKER #20 leaves field
+*BH* NECTAR WORKER #20 deposits
+*FF* NECTAR WORKER #59 leaves field
+*BH* NECTAR WORKER #59 deposits
+*FF* NECTAR WORKER #12 leaves field
+*BH* NECTAR WORKER #12 deposits
+*FF* POLLEN WORKER #27 leaves field
+*BH* POLLEN WORKER #27 deposits
+*FF* POLLEN WORKER #35 leaves field
+*BH* POLLEN WORKER #35 deposits
+*FF* POLLEN WORKER #27 enters field
+*FF* NECTAR WORKER #12 enters field
+*FF* NECTAR WORKER #59 enters field
+*FF* NECTAR WORKER #20 enters field
+*FF* NECTAR WORKER #48 enters field
+*FF* POLLEN WORKER #38 enters field
+*FF* POLLEN WORKER #35 enters field
+*D* DRONE #44 has perished!
+*BH* POLLEN WORKER #64 is born!
+*BH* DRONE #65 is born!
+*FF* POLLEN WORKER #64 enters field
+*Q* Queen birthed 2 children
+*QC* DRONE #65 enters chamber
+*QC* Queen mates with DRONE #45
+*QC* DRONE #45 leaves chamber
+*FF* NECTAR WORKER #14 leaves field
+*BH* NECTAR WORKER #14 deposits
+*FF* NECTAR WORKER #14 enters field
+*FF* NECTAR WORKER #21 leaves field
+*BH* NECTAR WORKER #21 deposits
+*FF* POLLEN WORKER #27 leaves field
+*BH* POLLEN WORKER #27 deposits
+*FF* POLLEN WORKER #27 enters field
+*FF* NECTAR WORKER #20 leaves field
+*BH* NECTAR WORKER #20 deposits
+*FF* POLLEN WORKER #46 leaves field
+*BH* POLLEN WORKER #46 deposits
+*FF* POLLEN WORKER #46 enters field
+*FF* NECTAR WORKER #59 leaves field
+*FF* NECTAR WORKER #21 enters field
+*BH* NECTAR WORKER #59 deposits
+*FF* POLLEN WORKER #37 leaves field
+*BH* POLLEN WORKER #37 deposits
+*FF* NECTAR WORKER #12 leaves field
+*BH* NECTAR WORKER #12 deposits
+*FF* NECTAR WORKER #12 enters field
+*FF* POLLEN WORKER #23 leaves field
+*BH* POLLEN WORKER #23 deposits
+*FF* POLLEN WORKER #29 leaves field
+*BH* POLLEN WORKER #29 deposits
+*FF* POLLEN WORKER #29 enters field
+*FF* POLLEN WORKER #23 enters field
+*FF* POLLEN WORKER #37 enters field
+*FF* NECTAR WORKER #59 enters field
+*FF* NECTAR WORKER #20 enters field
+*D* DRONE #45 has perished!
+*BH* DRONE #66 is born!
+*Q* Queen birthed 1 children
+*QC* DRONE #66 enters chamber
+*QC* Queen mates with DRONE #47
+*QC* DRONE #47 leaves chamber
+*FF* NECTAR WORKER #14 leaves field
+*BH* NECTAR WORKER #14 deposits
+*FF* NECTAR WORKER #14 enters field
+*FF* POLLEN WORKER #22 leaves field
+*BH* POLLEN WORKER #22 deposits
+*FF* POLLEN WORKER #46 leaves field
+*BH* POLLEN WORKER #46 deposits
+*FF* POLLEN WORKER #46 enters field
+*FF* POLLEN WORKER #30 leaves field
+*BH* POLLEN WORKER #30 deposits
+*FF* POLLEN WORKER #29 leaves field
+*BH* POLLEN WORKER #29 deposits
+*FF* POLLEN WORKER #22 enters field
+*FF* NECTAR WORKER #12 leaves field
+*BH* NECTAR WORKER #12 deposits
+*FF* POLLEN WORKER #26 leaves field
+*BH* POLLEN WORKER #26 deposits
+*FF* NECTAR WORKER #21 leaves field
+*BH* NECTAR WORKER #21 deposits
+*FF* POLLEN WORKER #27 leaves field
+*BH* POLLEN WORKER #27 deposits
+*FF* NECTAR WORKER #21 enters field
+*FF* POLLEN WORKER #26 enters field
+*FF* NECTAR WORKER #12 enters field
+*FF* POLLEN WORKER #29 enters field
+*FF* POLLEN WORKER #30 enters field
+*FF* POLLEN WORKER #27 enters field
+*FF* POLLEN WORKER #23 leaves field
+*BH* POLLEN WORKER #23 deposits
+*FF* POLLEN WORKER #23 enters field
+*D* DRONE #47 has perished!
+*BH* NECTAR WORKER #67 is born!
+*BH* DRONE #68 is born!
+*FF* NECTAR WORKER #67 enters field
+*BH* POLLEN WORKER #69 is born!
+*QC* DRONE #68 enters chamber
+*Q* Queen birthed 3 children
+*FF* POLLEN WORKER #69 enters field
+*QC* Queen mates with DRONE #50
+*QC* DRONE #50 leaves chamber
+*FF* NECTAR WORKER #14 leaves field
+*BH* NECTAR WORKER #14 deposits
+*FF* NECTAR WORKER #14 enters field
+*FF* POLLEN WORKER #22 leaves field
+*BH* POLLEN WORKER #22 deposits
+*FF* NECTAR WORKER #21 leaves field
+*BH* NECTAR WORKER #21 deposits
+*FF* NECTAR WORKER #21 enters field
+*FF* POLLEN WORKER #22 enters field
+*FF* NECTAR WORKER #48 leaves field
+*BH* NECTAR WORKER #48 deposits
+*FF* POLLEN WORKER #26 leaves field
+*BH* POLLEN WORKER #26 deposits
+*FF* POLLEN WORKER #26 enters field
+*FF* NECTAR WORKER #36 leaves field
+*BH* NECTAR WORKER #36 deposits
+*FF* NECTAR WORKER #36 enters field
+*FF* POLLEN WORKER #33 leaves field
+*BH* POLLEN WORKER #33 deposits
+*FF* POLLEN WORKER #46 leaves field
+*BH* POLLEN WORKER #46 deposits
+*FF* POLLEN WORKER #28 leaves field
+*BH* POLLEN WORKER #28 deposits
+*FF* POLLEN WORKER #28 enters field
+*FF* POLLEN WORKER #46 enters field
+*FF* POLLEN WORKER #33 enters field
+*FF* NECTAR WORKER #48 enters field
+*FF* POLLEN WORKER #23 leaves field
+*BH* POLLEN WORKER #23 deposits
+*FF* POLLEN WORKER #23 enters field
+*D* DRONE #50 has perished!
+*BH* NECTAR WORKER #70 is born!
+*BH* DRONE #71 is born!
+*FF* NECTAR WORKER #70 enters field
+*Q* Queen birthed 2 children
+*QC* DRONE #71 enters chamber
+*QC* Queen mates with DRONE #51
+*QC* DRONE #51 leaves chamber
+*FF* NECTAR WORKER #19 leaves field
+*BH* NECTAR WORKER #19 deposits
+*FF* NECTAR WORKER #19 enters field
+*FF* POLLEN WORKER #35 leaves field
+*FF* NECTAR WORKER #59 leaves field
+*BH* POLLEN WORKER #35 deposits
+*FF* POLLEN WORKER #46 leaves field
+*BH* NECTAR WORKER #59 deposits
+*FF* POLLEN WORKER #28 leaves field
+*BH* POLLEN WORKER #46 deposits
+*FF* NECTAR WORKER #36 leaves field
+*BH* POLLEN WORKER #28 deposits
+*FF* POLLEN WORKER #57 leaves field
+*BH* NECTAR WORKER #36 deposits
+*FF* NECTAR WORKER #21 leaves field
+*BH* POLLEN WORKER #57 deposits
+*FF* POLLEN WORKER #26 leaves field
+*BH* NECTAR WORKER #21 deposits
+*FF* POLLEN WORKER #57 enters field
+*BH* POLLEN WORKER #26 deposits
+*FF* NECTAR WORKER #36 enters field
+*FF* POLLEN WORKER #26 enters field
+*FF* POLLEN WORKER #28 enters field
+*FF* POLLEN WORKER #46 enters field
+*FF* NECTAR WORKER #59 enters field
+*FF* POLLEN WORKER #35 enters field
+*FF* NECTAR WORKER #21 enters field
+*FF* POLLEN WORKER #23 leaves field
+*BH* POLLEN WORKER #23 deposits
+*FF* POLLEN WORKER #23 enters field
+*D* DRONE #51 has perished!
+*BH* DRONE #72 is born!
+*BH* DRONE #73 is born!
+*QC* DRONE #72 enters chamber
+*Q* Queen birthed 2 children
+*QC* DRONE #73 enters chamber
+*QC* Queen mates with DRONE #52
+*QC* DRONE #52 leaves chamber
+*FF* NECTAR WORKER #15 leaves field
+*BH* NECTAR WORKER #15 deposits
+*FF* NECTAR WORKER #15 enters field
+*FF* NECTAR WORKER #13 leaves field
+*BH* NECTAR WORKER #13 deposits
+*FF* NECTAR WORKER #20 leaves field
+*BH* NECTAR WORKER #20 deposits
+*FF* NECTAR WORKER #20 enters field
+*FF* POLLEN WORKER #28 leaves field
+*BH* POLLEN WORKER #28 deposits
+*FF* POLLEN WORKER #28 enters field
+*FF* NECTAR WORKER #60 leaves field
+*BH* NECTAR WORKER #60 deposits
+*FF* NECTAR WORKER #60 enters field
+*FF* POLLEN WORKER #26 leaves field
+*BH* POLLEN WORKER #26 deposits
+*FF* POLLEN WORKER #26 enters field
+*FF* NECTAR WORKER #36 leaves field
+*BH* NECTAR WORKER #36 deposits
+*FF* NECTAR WORKER #36 enters field
+*FF* NECTAR WORKER #13 enters field
+*FF* POLLEN WORKER #57 leaves field
+*BH* POLLEN WORKER #57 deposits
+*FF* POLLEN WORKER #57 enters field
+*FF* POLLEN WORKER #29 leaves field
+*BH* POLLEN WORKER #29 deposits
+*FF* POLLEN WORKER #29 enters field
+*FF* POLLEN WORKER #30 leaves field
+*BH* POLLEN WORKER #30 deposits
+*FF* POLLEN WORKER #30 enters field
+*D* DRONE #52 has perished!
+*BH* DRONE #74 is born!
+*Q* Queen birthed 1 children
+*QC* DRONE #74 enters chamber
+*QC* Queen mates with DRONE #53
+*QC* DRONE #53 leaves chamber
+*FF* NECTAR WORKER #17 leaves field
+*BH* NECTAR WORKER #17 deposits
+*FF* NECTAR WORKER #17 enters field
+*FF* POLLEN WORKER #28 leaves field
+*FF* POLLEN WORKER #33 leaves field
+*BH* POLLEN WORKER #28 deposits
+*FF* POLLEN WORKER #57 leaves field
+*BH* POLLEN WORKER #33 deposits
+*FF* POLLEN WORKER #26 leaves field
+*BH* POLLEN WORKER #57 deposits
+*FF* NECTAR WORKER #36 leaves field
+*BH* POLLEN WORKER #26 deposits
+*FF* POLLEN WORKER #25 leaves field
+*BH* NECTAR WORKER #36 deposits
+*FF* NECTAR WORKER #60 leaves field
+*BH* POLLEN WORKER #25 deposits
+*FF* NECTAR WORKER #20 leaves field
+*BH* NECTAR WORKER #60 deposits
+*FF* POLLEN WORKER #25 enters field
+*BH* NECTAR WORKER #20 deposits
+*FF* NECTAR WORKER #36 enters field
+*FF* POLLEN WORKER #26 enters field
+*FF* POLLEN WORKER #57 enters field
+*FF* POLLEN WORKER #33 enters field
+*FF* POLLEN WORKER #28 enters field
+*FF* NECTAR WORKER #20 enters field
+*FF* NECTAR WORKER #60 enters field
+*FF* NECTAR WORKER #16 leaves field
+*BH* NECTAR WORKER #16 deposits
+*FF* NECTAR WORKER #16 enters field
+*D* DRONE #53 has perished!
+*BH* DRONE #75 is born!
+*BH* POLLEN WORKER #76 is born!
+*QC* DRONE #75 enters chamber
+*BH* DRONE #77 is born!
+*FF* POLLEN WORKER #76 enters field
+*BH* POLLEN WORKER #78 is born!
+*QC* DRONE #77 enters chamber
+*Q* Queen birthed 4 children
+*FF* POLLEN WORKER #78 enters field
+*QC* Queen mates with DRONE #54
+*QC* DRONE #54 leaves chamber
+*FF* POLLEN WORKER #37 leaves field
+*BH* POLLEN WORKER #37 deposits
+*FF* POLLEN WORKER #37 enters field
+*FF* POLLEN WORKER #25 leaves field
+*FF* POLLEN WORKER #26 leaves field
+*BH* POLLEN WORKER #25 deposits
+*FF* POLLEN WORKER #57 leaves field
+*BH* POLLEN WORKER #26 deposits
+*FF* NECTAR WORKER #70 leaves field
+*BH* POLLEN WORKER #57 deposits
+*FF* NECTAR WORKER #19 leaves field
+*BH* NECTAR WORKER #70 deposits
+*FF* NECTAR WORKER #36 leaves field
+*BH* NECTAR WORKER #19 deposits
+*FF* POLLEN WORKER #24 leaves field
+*BH* NECTAR WORKER #36 deposits
+*FF* POLLEN WORKER #43 leaves field
+*BH* POLLEN WORKER #24 deposits
+*FF* NECTAR WORKER #36 enters field
+*BH* POLLEN WORKER #43 deposits
+*FF* POLLEN WORKER #43 enters field
+*FF* NECTAR WORKER #19 enters field
+*FF* NECTAR WORKER #70 enters field
+*FF* POLLEN WORKER #57 enters field
+*FF* POLLEN WORKER #26 enters field
+*FF* POLLEN WORKER #25 enters field
+*FF* POLLEN WORKER #24 enters field
+*FF* POLLEN WORKER #46 leaves field
+*BH* POLLEN WORKER #46 deposits
+*FF* POLLEN WORKER #46 enters field
+*D* DRONE #54 has perished!
+*BH* POLLEN WORKER #79 is born!
+*BH* DRONE #80 is born!
+*FF* POLLEN WORKER #79 enters field
+*Q* Queen birthed 2 children
+*QC* DRONE #80 enters chamber
+*QC* Queen mates with DRONE #55
+*QC* DRONE #55 leaves chamber
+*FF* NECTAR WORKER #12 leaves field
+*BH* NECTAR WORKER #12 deposits
+*FF* NECTAR WORKER #12 enters field
+*FF* NECTAR WORKER #13 leaves field
+*FF* NECTAR WORKER #70 leaves field
+*BH* NECTAR WORKER #13 deposits
+*FF* NECTAR WORKER #19 leaves field
+*BH* NECTAR WORKER #70 deposits
+*FF* NECTAR WORKER #15 leaves field
+*BH* NECTAR WORKER #19 deposits
+*BH* NECTAR WORKER #15 deposits
+*FF* POLLEN WORKER #43 leaves field
+*BH* POLLEN WORKER #43 deposits
+*FF* NECTAR WORKER #36 leaves field
+*BH* NECTAR WORKER #36 deposits
+*FF* NECTAR WORKER #59 leaves field
+*BH* NECTAR WORKER #59 deposits
+*FF* POLLEN WORKER #31 leaves field
+*BH* POLLEN WORKER #31 deposits
+*FF* POLLEN WORKER #31 enters field
+*FF* NECTAR WORKER #59 enters field
+*FF* NECTAR WORKER #36 enters field
+*FF* POLLEN WORKER #43 enters field
+*FF* NECTAR WORKER #19 enters field
+*FF* NECTAR WORKER #15 enters field
+*FF* NECTAR WORKER #70 enters field
+*FF* NECTAR WORKER #13 enters field
+*FF* POLLEN WORKER #27 leaves field
+*BH* POLLEN WORKER #27 deposits
+*FF* POLLEN WORKER #27 enters field
+*D* DRONE #55 has perished!
+*BH* NECTAR WORKER #81 is born!
+*Q* Queen birthed 1 children
+*FF* NECTAR WORKER #81 enters field
+*QC* Queen mates with DRONE #56
+*QC* DRONE #56 leaves chamber
+*FF* POLLEN WORKER #22 leaves field
+*FF* NECTAR WORKER #59 leaves field
+*FF* NECTAR WORKER #36 leaves field
+*BH* POLLEN WORKER #22 deposits
+*FF* NECTAR WORKER #17 leaves field
+*BH* NECTAR WORKER #36 deposits
+*FF* POLLEN WORKER #43 leaves field
+*BH* NECTAR WORKER #59 deposits
+*FF* POLLEN WORKER #39 leaves field
+*BH* POLLEN WORKER #43 deposits
+*FF* POLLEN WORKER #31 leaves field
+*BH* NECTAR WORKER #17 deposits
+*FF* NECTAR WORKER #17 enters field
+*BH* POLLEN WORKER #31 deposits
+*FF* NECTAR WORKER #12 leaves field
+*BH* POLLEN WORKER #39 deposits
+*FF* NECTAR WORKER #14 leaves field
+*BH* NECTAR WORKER #12 deposits
+*FF* POLLEN WORKER #39 enters field
+*BH* NECTAR WORKER #14 deposits
+*FF* POLLEN WORKER #31 enters field
+*FF* POLLEN WORKER #43 enters field
+*FF* NECTAR WORKER #59 enters field
+*FF* NECTAR WORKER #36 enters field
+*FF* POLLEN WORKER #22 enters field
+*FF* NECTAR WORKER #14 enters field
+*FF* NECTAR WORKER #12 enters field
+*FF* POLLEN WORKER #27 leaves field
+*BH* POLLEN WORKER #27 deposits
+*FF* POLLEN WORKER #27 enters field
+*D* DRONE #56 has perished!
+*BH* POLLEN WORKER #82 is born!
+*BH* POLLEN WORKER #83 is born!
+*FF* POLLEN WORKER #82 enters field
+*Q* Queen birthed 2 children
+*FF* POLLEN WORKER #83 enters field
+*QC* Queen mates with DRONE #58
+*QC* DRONE #58 leaves chamber
+*FF* POLLEN WORKER #64 leaves field
+*FF* POLLEN WORKER #28 leaves field
+*FF* POLLEN WORKER #78 leaves field
+*BH* POLLEN WORKER #64 deposits
+*FF* POLLEN WORKER #64 enters field
+*BH* POLLEN WORKER #78 deposits
+*FF* POLLEN WORKER #78 enters field
+*BH* POLLEN WORKER #28 deposits
+*FF* POLLEN WORKER #28 enters field
+*FF* POLLEN WORKER #39 leaves field
+*BH* POLLEN WORKER #39 deposits
+*FF* POLLEN WORKER #39 enters field
+*FF* NECTAR WORKER #17 leaves field
+*BH* NECTAR WORKER #17 deposits
+*FF* NECTAR WORKER #17 enters field
+*FF* NECTAR WORKER #18 leaves field
+*BH* NECTAR WORKER #18 deposits
+*FF* NECTAR WORKER #18 enters field
+*FF* POLLEN WORKER #31 leaves field
+*FF* POLLEN WORKER #43 leaves field
+*BH* POLLEN WORKER #31 deposits
+*FF* POLLEN WORKER #31 enters field
+*BH* POLLEN WORKER #43 deposits
+*FF* POLLEN WORKER #76 leaves field
+*BH* POLLEN WORKER #76 deposits
+*FF* POLLEN WORKER #76 enters field
+*FF* POLLEN WORKER #43 enters field
+*FF* POLLEN WORKER #37 leaves field
+*BH* POLLEN WORKER #37 deposits
+*FF* POLLEN WORKER #37 enters field
+*D* DRONE #58 has perished!
+*BH* NECTAR WORKER #84 is born!
+*BH* POLLEN WORKER #85 is born!
+*FF* NECTAR WORKER #84 enters field
+*Q* Queen birthed 2 children
+*FF* POLLEN WORKER #85 enters field
+*QC* Queen mates with DRONE #61
+*QC* DRONE #61 leaves chamber
+*FF* POLLEN WORKER #78 leaves field
+*FF* POLLEN WORKER #39 leaves field
+*FF* POLLEN WORKER #24 leaves field
+*BH* POLLEN WORKER #78 deposits
+*FF* POLLEN WORKER #76 leaves field
+*BH* POLLEN WORKER #24 deposits
+*FF* POLLEN WORKER #35 leaves field
+*BH* POLLEN WORKER #39 deposits
+*FF* NECTAR WORKER #18 leaves field
+*BH* POLLEN WORKER #35 deposits
+*FF* NECTAR WORKER #17 leaves field
+*BH* POLLEN WORKER #76 deposits
+*FF* POLLEN WORKER #76 enters field
+*BH* NECTAR WORKER #17 deposits
+*FF* POLLEN WORKER #23 leaves field
+*BH* NECTAR WORKER #18 deposits
+*FF* POLLEN WORKER #64 leaves field
+*BH* POLLEN WORKER #23 deposits
+*FF* NECTAR WORKER #18 enters field
+*BH* POLLEN WORKER #64 deposits
+*FF* NECTAR WORKER #17 enters field
+*FF* POLLEN WORKER #35 enters field
+*FF* POLLEN WORKER #39 enters field
+*FF* POLLEN WORKER #24 enters field
+*FF* POLLEN WORKER #78 enters field
+*FF* POLLEN WORKER #64 enters field
+*FF* POLLEN WORKER #23 enters field
+*FF* POLLEN WORKER #79 leaves field
+*BH* POLLEN WORKER #79 deposits
+*FF* POLLEN WORKER #79 enters field
+*D* DRONE #61 has perished!
+*BH* DRONE #86 is born!
+*Q* Queen birthed 1 children
+*QC* DRONE #86 enters chamber
+*QC* Queen mates with DRONE #62
+*QC* DRONE #62 leaves chamber
+*FF* POLLEN WORKER #29 leaves field
+*FF* POLLEN WORKER #30 leaves field
+*FF* NECTAR WORKER #19 leaves field
+*FF* POLLEN WORKER #76 leaves field
+*FF* NECTAR WORKER #17 leaves field
+*FF* POLLEN WORKER #69 leaves field
+*FF* POLLEN WORKER #35 leaves field
+*FF* NECTAR WORKER #13 leaves field
+*FF* NECTAR WORKER #18 leaves field
+*FF* POLLEN WORKER #33 leaves field
+*D* DRONE #62 has perished!
+*BH* DRONE #87 is born!
+*BH* DRONE #88 is born!
+*Q* Queen birthed 2 children
+*QC* DRONE #63 leaves chamber
+*QC* DRONE #65 leaves chamber
+*QC* DRONE #66 leaves chamber
+*QC* DRONE #68 leaves chamber
+*QC* DRONE #71 leaves chamber
+*QC* DRONE #72 leaves chamber
+*QC* DRONE #73 leaves chamber
+*QC* DRONE #74 leaves chamber
+*QC* DRONE #75 leaves chamber
+*QC* DRONE #77 leaves chamber
+*QC* DRONE #80 leaves chamber
+*QC* DRONE #86 leaves chamber
+*FF* NECTAR WORKER #81 leaves field
+*FF* NECTAR WORKER #59 leaves field
+*FF* NECTAR WORKER #16 leaves field
+*FF* NECTAR WORKER #60 leaves field
+*FF* NECTAR WORKER #36 leaves field
+*FF* POLLEN WORKER #22 leaves field
+*FF* NECTAR WORKER #12 leaves field
+*FF* NECTAR WORKER #48 leaves field
+*FF* NECTAR WORKER #14 leaves field
+*FF* NECTAR WORKER #20 leaves field
+*FF* POLLEN WORKER #82 leaves field
+*FF* POLLEN WORKER #83 leaves field
+*FF* NECTAR WORKER #21 leaves field
+*FF* POLLEN WORKER #31 leaves field
+*FF* NECTAR WORKER #49 leaves field
+*FF* POLLEN WORKER #25 leaves field
+*FF* POLLEN WORKER #26 leaves field
+*FF* POLLEN WORKER #57 leaves field
+*FF* POLLEN WORKER #27 leaves field
+*FF* POLLEN WORKER #28 leaves field
+*FF* POLLEN WORKER #46 leaves field
+*FF* POLLEN WORKER #37 leaves field
+*FF* NECTAR WORKER #84 leaves field
+*FF* NECTAR WORKER #67 leaves field
+*FF* POLLEN WORKER #85 leaves field
+*FF* POLLEN WORKER #38 leaves field
+*FF* POLLEN WORKER #24 leaves field
+*FF* POLLEN WORKER #43 leaves field
+*FF* NECTAR WORKER #70 leaves field
+*FF* POLLEN WORKER #39 leaves field
+*FF* POLLEN WORKER #78 leaves field
+*FF* POLLEN WORKER #23 leaves field
+*FF* POLLEN WORKER #64 leaves field
+*FF* NECTAR WORKER #15 leaves field
+*FF* POLLEN WORKER #79 leaves field
+*BH* Bee hive stops buzzing!
+
+STATISTICS
+==========
+Bees born: 88
+Bees perished: 28
+Nectar gathered: 133
+Pollen gathered: 157
+Nectar remaining: 76
+Pollen remaining: 100
